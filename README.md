@@ -1,6 +1,6 @@
 <h1 align='center'> COMP2420/COMP6420 - Introduction to Data Management, Analysis and Security</h1>
 
-<h2 align='center'> Assignment 2</h2>
+<h2 align='center'> Assignment 1</h2>
 
 ### Specification
 
