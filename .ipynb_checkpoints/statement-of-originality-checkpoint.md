@@ -33,10 +33,11 @@ Add as many "url+licence+comment" entries as necessary
 
 ### References:
 Provide a list of Harvard/APA references for any references for written answers.
-
+Q3:https://www.cvedetails.com/cve/CVE-2017-14335/
+Q6:https://www.first.org/cvss/v3.0/specification-document
 
 ## Sign *your* name and uid here. 
 
-name1:  
-uid1:
+name1: Yixi Rao 
+uid1: u6826541
 
