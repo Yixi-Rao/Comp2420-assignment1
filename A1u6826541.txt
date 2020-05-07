@@ -1,0 +1,87 @@
+                     ==============================
+                       COMP2420, Semester 1, 2020
+                         Assignment 1 Mark Sheet
+                     ==============================
+
+=======================================================
+  Uni Id  | Lab Group  | Tutor                  
+=======================================================
+ u6826541    vl-fri17-20a Asiri Wijesinghe, Sukai Huang
+=======================================================
+
+Gitlab Repo : u6826541/comp2420-2020-ass1
+
+Marker: Asiri Wijesinghe
+
+Marks
+=====
+
+======================================================
+ Q1. Load and Process Data                :    4/5 
+
+ Q2. Recreating Missing Data              :    15/15
+
+ Q3. Identifying Data Analysis Problems   :    14/15
+
+ Q4. Data Analysis
+   Q4.1                                   :    10/10
+   Q4.2                                   :    5/5
+   Q4.3                                   :    3.5/15
+   Q4.4                                   :    4/10
+
+ Q5. Linear Regression                    :    7/10
+
+ Q6. New Data From Old                    :    14/15
+
+ Penalty (if any)                         :    /100 
+======================================================
+   Total (max 100)                        :  76.5
+======================================================
+
+
+Feedback
+========
+
+Load and Process Data
+---------------------
+1. Missing values were not recoded correctly (-1)
+
+
+Recreating Missing Data
+-----------------------
+2. Excellent
+
+
+Identifying Data Analysis Problems
+----------------------------------
+3. Excellent. Not provided particular values in your data, with references (-1)
+
+
+
+Data Analysis
+-------------
+4.1 Excellent
+
+4.2 Excellent
+
+4.3 No assumptions stated (-3)
+Not stated hypothesis correctly (-1) Not mentioned it is a one-sided test (-2)
+Not getting correct p-value (-1)
+No any correct visualizations or any substantial evidence (-3)
+No conclusion given (-1.5)
+
+4.4 Uninteresting relationship (3/5) : v2 base score is anyway dependent on v2 metrics
+No evidence based reasoning with a clear conclusion about the relationship of the selected attributes (-3)
+
+
+Linear Regression
+-----------------
+5. There's no any other evaluations such as MSE, MAE, RMSE (-2) 
+Not enough conclusion according to the question (-1)
+
+
+New Data From Old
+-----------------
+6. Great work
+
+
